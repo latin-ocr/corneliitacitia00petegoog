@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./corneliitacitia00petegoog_0140.png"; bbox 0 0 3314 5170; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 507 2454 1103 2512">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 507 2454 1103 2512">
+     <span class='ocr_line' id='line_1_1' title="bbox 507 2454 1103 2512; baseline -0.002 -2"><span class='ocrx_word' id='word_1_1' title='bbox 507 2456 601 2510; x_wconf 85' lang='lat' dir='ltr'><strong>Druck</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 620 2470 673 2509; x_wconf 87' lang='lat' dir='ltr'><strong>von</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 691 2454 724 2508; x_wconf 82' lang='lat' dir='ltr'><strong>A.</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 742 2454 959 2512; x_wconf 80' lang='lat' dir='ltr'><strong>Neuenhahn</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 977 2457 1006 2511; x_wconf 87' lang='lat' dir='ltr'><strong>in</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1023 2457 1103 2511; x_wconf 74' lang='lat' dir='ltr'><strong>Jona.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 1662 5170">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 1662 5170">
+     <span class='ocr_line' id='line_1_2' title="bbox 0 0 1662 5170; baseline 0 0"><span class='ocrx_word' id='word_1_7' title='bbox 0 0 1662 5170; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
